@@ -1,4 +1,4 @@
-# CSE127: Introduction to Computer Security Homework 4 
+# CSE 127: Introduction to Computer Security Homework 4 
 
 Project Overview: The goal of this assignment is to gain a hands-on experience with the effects of buffer overflows and memory-safety bugs. There are 5 vulernable programs that can be exploited by:
 
